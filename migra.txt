@@ -1,0 +1,440 @@
+class	subclass	code	code_desc
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IR1	Spouses, new arrivals
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IR6	Spouses, adjustments
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	CR1	Spouses, new arrivals, conditional
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	CR6	Spouses, adjustments, conditional
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IB1	Spouses, new arrivals, self petitioning
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IB6	Spouses, adjustments, self petitioning
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IW1	Spouses, widows or widowers, new arrivals
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IW6	Spouses, widows or widowers, adjustments
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	CF1	Spouses, entered as fiance(e), adjustments, conditional
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IF1	Spouses, entered as fiance(e), adjustments
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IR2	Children, new arrivals
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IR7	Children, adjustments
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	CR2	Children, new arrivals, conditional
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	CR7	Children, adjustments, conditional
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	AR1	Children, Amerasian, new arrivals
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	AR6	Children, Amerasian, adjustments
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IB2	Children, new arrivals, self petitioning
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IB7	Children, adjustments, self petitioning
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IB3	Children of IB1 or IB6, new arrivals
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IB8	Children of IB1 or IB6, adjustments
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IW2	Children of IW1 or IW6, new arrivals
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IW7	Children of IW1 or IW6, adjustments
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	CF2	Children of CF1, adjustments, conditional
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IF2	Children of IF1, adjustments
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IH3	Children adopted abroad under the Hague Convention, new arrivals
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IH8	Children adopted abroad under the Hague Convention, adjustments
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IH4	Children to be adopted under the Hague Convention, new arrivals
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IH9	Children to be adopted under the Hague Convention, adjustments
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IR3	Orphans adopted abroad, new arrivals
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IR8	Orphans adopted abroad, adjustments
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IR4	Orphans to be adopted, new arrivals
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IR9	Orphans to be adopted, adjustments
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IR5	Parents of adult U.S. citizens, new arrivals
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IR0	Parents of adult U.S. citizens, adjustments
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IB5	Parents battered or abused, of U.S. citizens, new arrivals, self petitioning
+Immediate Relatives of U.S. Citizens	All Immediate Relatives	IB0	Parents battered or abused, of U.S. citizens, adjustments, self petitioning
+			
+Family-sponsored preferences	First: Unmarried sons/daughters of U.S. citizens and their children	A11	Unmarried Amerasian sons/daughters of U.S. citizens, new arrivals
+Family-sponsored preferences	First: Unmarried sons/daughters of U.S. citizens and their children	A16	Unmarried Amerasian sons/daughters of U.S. citizens, adjustments
+Family-sponsored preferences	First: Unmarried sons/daughters of U.S. citizens and their children	F11	Unmarried sons/daughters of U.S. citizens, new arrivals
+Family-sponsored preferences	First: Unmarried sons/daughters of U.S. citizens and their children	F16	Unmarried sons/daughters of U.S. citizens, adjustments
+Family-sponsored preferences	First: Unmarried sons/daughters of U.S. citizens and their children	B11	Unmarried sons/daughters of U.S. citizens, new arrivals, self petitioning
+Family-sponsored preferences	First: Unmarried sons/daughters of U.S. citizens and their children	B16	Unmarried sons/daughters of U.S. citizens, adjustments, self petitioning
+Family-sponsored preferences	First: Unmarried sons/daughters of U.S. citizens and their children	A12	Children of A11 or A16, new arrivals
+Family-sponsored preferences	First: Unmarried sons/daughters of U.S. citizens and their children	A17	Children of A11 or A16, adjustments
+Family-sponsored preferences	First: Unmarried sons/daughters of U.S. citizens and their children	F12	Children of F11 or F16, new arrivals
+Family-sponsored preferences	First: Unmarried sons/daughters of U.S. citizens and their children	F17	Children of F11 or F16, adjustments
+Family-sponsored preferences	First: Unmarried sons/daughters of U.S. citizens and their children	B12	Children of B11 or B16, new arrivals
+Family-sponsored preferences	First: Unmarried sons/daughters of U.S. citizens and their children	B17	Children of B11 or B16, adjustments
+			
+Family-sponsored preferences	Second: Spouses	F21	Spouses of alien residents, subject to country limits, new arrivals
+Family-sponsored preferences	Second: Spouses	F26	Spouses of alien residents, subject to country limits, adjustments
+Family-sponsored preferences	Second: Spouses	B21	Spouses of alien residents, subject to country limits, new arrivals, self petitioning
+Family-sponsored preferences	Second: Spouses	B26	Spouses of alien residents, subject to country limits, adjustments, self petitioning
+Family-sponsored preferences	Second: Spouses	C21	Spouses of alien residents, subject to country limits, new arrivals, conditional
+Family-sponsored preferences	Second: Spouses	C26	Spouses of alien residents, subject to country limits, adjustments, conditional
+Family-sponsored preferences	Second: Spouses	FX1	Spouses of alien residents, exempt from country limits, new arrivals
+Family-sponsored preferences	Second: Spouses	FX6	Spouses of alien residents, exempt from country limits, adjustments
+Family-sponsored preferences	Second: Spouses	BX1	Spouses of alien residents, exempt from country limits, new arrivals, self petitioning
+Family-sponsored preferences	Second: Spouses	BX6	Spouses of alien residents, exempt from country limits, adjustments, self petitioning
+Family-sponsored preferences	Second: Spouses	CX1	Spouses of alien residents, exempt from country limits, new arrivals, conditional
+Family-sponsored preferences	Second: Spouses	CX6	Spouses of alien residents, exempt from country limits, adjustments, conditional
+Family-sponsored preferences	Second: Spouses	F22	Children of alien residents, subject to country limits, new arrivals
+Family-sponsored preferences	Second: Spouses	F27	Children of alien residents, subject to country limits, adjustments
+Family-sponsored preferences	Second: Spouses	B22	Children of alien residents, subject to country limits, new arrivals, self petitioning
+Family-sponsored preferences	Second: Spouses	B27	Children of alien residents, subject to country limits, adjustments, self petitioning
+Family-sponsored preferences	Second: Spouses	C23	Children of C21, C22, C26, or C27, subject to country limits, new arrivals, conditional
+Family-sponsored preferences	Second: Spouses	C28	Children of C21, C22, C26, or C27, subject to country limits, adjustments, conditional
+Family-sponsored preferences	Second: Spouses	B23	Children of B21, B22, B26, or B27, subject to country limits, new arrivals
+Family-sponsored preferences	Second: Spouses	B28	Children of B21, B22, B26, or B27, subject to country limits, adjustments
+Family-sponsored preferences	Second: Spouses	F23	Children of F21, F22, F26, or F27, subject to country limits, new arrivals
+Family-sponsored preferences	Second: Spouses	F28	Children of F21, F22, F26, or F27, subject to country limits, adjustments
+Family-sponsored preferences	Second: Spouses	C25	Children of C24 or C29, subject to country limits, new arrivals, conditional
+Family-sponsored preferences	Second: Spouses	C20	Children of C24 or C29, subject to country limits, adjustments, conditional
+Family-sponsored preferences	Second: Spouses	B25	Children of B24 or B29, subject to country limits, new arrivals
+Family-sponsored preferences	Second: Spouses	B20	Children of B24 or B29, subject to country limits, adjustments
+Family-sponsored preferences	Second: Spouses	F25	Children of F24 or F29, subject to country limits, new arrivals
+Family-sponsored preferences	Second: Spouses	F20	Children of F24 or F29, subject to country limits, adjustments
+Family-sponsored preferences	Second: Spouses	C22	Children of alien residents, subject to country limits, new arrivals, conditional
+Family-sponsored preferences	Second: Spouses	C27	Children of alien residents, subject to country limits, adjustments, conditional
+Family-sponsored preferences	Second: Spouses	FX2	Children of alien residents, exempt from country limits, new arrivals
+Family-sponsored preferences	Second: Spouses	FX7	Children of alien residents, exempt from country limits, adjustments
+Family-sponsored preferences	Second: Spouses	BX2	Children of alien residents, exempt from country limits, new arrivals, self petitioning
+Family-sponsored preferences	Second: Spouses	BX7	Children of alien residents, exempt from country limits, adjustments, self petitioning
+Family-sponsored preferences	Second: Spouses	CX3	Children of CX2 or CX7, exempt from country limits, new arrivals, conditional
+Family-sponsored preferences	Second: Spouses	CX8	Children of CX2 or CX7, exempt from country limits, adjustments, conditional
+Family-sponsored preferences	Second: Spouses	BX3	Children of BX1, BX2, BX6, or BX7, exempt from country limits, new arrivals
+Family-sponsored preferences	Second: Spouses	BX8	Children of BX1, BX2, BX6, or BX7, exempt from country limits, adjustments
+Family-sponsored preferences	Second: Spouses	FX3	Children of FX1, FX2, FX7, or FX8, exempt from country limits, new arrivals
+Family-sponsored preferences	Second: Spouses	FX8	Children of FX1, FX2, FX7, or FX8, exempt from country limits, adjustments
+Family-sponsored preferences	Second: Spouses	CX2	Children of alien residents, exempt from country limits, new arrivals, conditional
+Family-sponsored preferences	Second: Spouses	CX7	Children of alien residents, exempt from country limits, adjustments, conditional
+Family-sponsored preferences	Second: Spouses	F24	Unmarried sons/daughters of alien residents, subject to country limits, new arrivals
+Family-sponsored preferences	Second: Spouses	F29	Unmarried sons/daughters of alien residents, subject to country limits, adjustments
+Family-sponsored preferences	Second: Spouses	B24	Unmarried sons/daughters of alien residents, subject to country limits, new arrivals, self petitioning
+Family-sponsored preferences	Second: Spouses	B29	Unmarried sons/daughters of alien residents, subject to country limits, adjustments, self petitioning
+Family-sponsored preferences	Second: Spouses	C24	Unmarried children of alien residents, subject to country limits, new arrivals, conditional
+Family-sponsored preferences	Second: Spouses	C29	Unmarried children of alien residents, subject to country limits, adjustments, conditional
+			
+			
+			
+			
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	A31	Married Amerasian sons/daughters of U.S. citizens, new arrivals
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	F31	Married sons/daughters of U.S. citizens, new arrivals
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	C31	Married sons/daughters of U.S. citizens, new arrivals, conditional
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	B31	Married sons/daughters of U.S. citizens, new arrivals, self petitioning
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	A36	Married Amerasian sons/daughters of U.S. citizens, adjustments
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	F36	Married sons/daughters of U.S. citizens, adjustments
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	C36	Married sons/daughters of U.S. citizens, adjustments, conditional
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	B36	Married sons/daughters of U.S. citizens, adjustments, self petitioning
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	A32	Spouses of A31 or A36, new arrivals
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	A37	Spouses of A31 or A36, adjustments
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	F32	Spouses of married sons/daughters of U.S. citizens, new arrivals
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	F37	Spouses of married sons/daughters of U.S. citizens, adjustments
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	C32	Spouses of C31 or C36, new arrivals, conditional
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	C37	Spouses of married sons/daughters of U.S. citizens, adjustments, conditional
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	B32	Spouses of B31 or B36, new arrivals
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	B37	Spouses of B31 or B36, adjustments
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	A33	Children of A31 or A36, subject to country limits, new arrivals
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	A38	Children of A31 or A36, subject to country limits, adjustments
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	F33	Children of married sons/daughters of U.S. citizens, new arrivals
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	F38	Children of married sons/daughters of U.S. citizens, adjustments
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	C33	Children of C31 or C36, subject to country limits, new arrivals, conditional
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	C38	Children of C31 or C36, subject to country limits, adjustments, conditional
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	B33	Children of B31 or B36, subject to country limits, new arrivals
+Family-sponsored preferences	Third: Married sons/daughters of U.S. citizens and their spouses and children	B38	Children of B31 or B36, subject to country limits, adjustments
+
+Family-sponsored preferences	Fourth: Brothers/sisters of U.S. citizens (at least 21 years of age) and their spouses and children	F41	Brothers/sisters of U.S. citizens, new arrivals
+Family-sponsored preferences	Fourth: Brothers/sisters of U.S. citizens (at least 21 years of age) and their spouses and children	F46	Brothers/sisters of U.S. citizens, adjustments
+Family-sponsored preferences	Fourth: Brothers/sisters of U.S. citizens (at least 21 years of age) and their spouses and children	F42	Spouses of brothers/sisters of U.S. citizens, new arrivals
+Family-sponsored preferences	Fourth: Brothers/sisters of U.S. citizens (at least 21 years of age) and their spouses and children	F47	Spouses of brothers/sisters of U.S. citizens, adjustments
+Family-sponsored preferences	Fourth: Brothers/sisters of U.S. citizens (at least 21 years of age) and their spouses and children	F43	Children of brothers/sisters of U.S. citizens, new arrivals
+Family-sponsored preferences	Fourth: Brothers/sisters of U.S. citizens (at least 21 years of age) and their spouses and children	F48	Children of brothers/sisters of U.S. citizens, adjustments
+Employment-based preferences	First: Priority Work	E11	Aliens with extraordinary ability, new arrivals
+Employment-based preferences	First: Priority Work	E16	Aliens with extraordinary ability, adjustments
+Employment-based preferences	First: Priority Work	E12	Outstanding professors or researchers, new arrivals
+Employment-based preferences	First: Priority Work	E17	Outstanding professors or researchers, adjustments
+Employment-based preferences	First: Priority Work	E13	Multinational executives or managers, new arrivals
+Employment-based preferences	First: Priority Work	E18	Multinational executives or managers, adjustments
+Employment-based preferences	First: Priority Work	E14	Spouses of E11, E12, E13, E16, E17, or E18, new arrivals
+Employment-based preferences	First: Priority Work	E19	Spouses of E11, E12, E13, E16, E17, or E18, adjustments
+Employment-based preferences	First: Priority Work	E15	Children of E11, E12, E13, E16, E17, or E18, new arrivals
+Employment-based preferences	First: Priority Work	E10	Children of E11, E12, E13, E16, E17, or E18, adjustments
+	
+Employment-based preferences	Second: Professionals with advanced degrees or aliens of exceptional ability	E21	Professionals holding advanced degrees, new arrivals
+Employment-based preferences	Second: Professionals with advanced degrees or aliens of exceptional ability	E26	Professionals holding advanced degrees, adjustments
+Employment-based preferences	Second: Professionals with advanced degrees or aliens of exceptional ability	ES1	Soviet scientists, new arrivals
+Employment-based preferences	Second: Professionals with advanced degrees or aliens of exceptional ability	ES6	Soviet scientists, adjustments
+Employment-based preferences	Second: Professionals with advanced degrees or aliens of exceptional ability	E22	Spouses of E21 or E26, new arrivals
+Employment-based preferences	Second: Professionals with advanced degrees or aliens of exceptional ability	E27	Spouses of E21 or E26, adjustments
+Employment-based preferences	Second: Professionals with advanced degrees or aliens of exceptional ability	E23	Children of E21 or E26, new arrivals
+Employment-based preferences	Second: Professionals with advanced degrees or aliens of exceptional ability	E28	Children of E21 or E26, adjustments
+						
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	EX1	Schedule - A worker, new arrivals
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	EX6	Schedule - A worker, adjustments
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	E31	Skilled workers, new arrivals
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	E36	Skilled workers, adjustments
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	E32	Professionals with baccalaureate degrees, new arrivals
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	E37	Professionals with baccalaureate degrees, adjustments
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	EW3	Needed unskilled workers, new arrivals
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	EW8	Needed unskilled workers, adjustments
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	EC6	Chinese Student Protection Act (CSPA) principals, adjustments
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	EX2	Spouses of EX1 or EX6, new arrivals
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	EX7	Spouses of EX1 or EX6, adjustments
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	E34	Spouses of E31, E32, E36, or E37, new arrivals
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	E39	Spouses of E31, E32, E36, or E37, adjustments
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	EW4	Spouses of EW3 or EW8, new arrivals
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	EW9	Spouses of EW3 or EW8, adjustments
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	EC7	Spouses of EC6, adjustments
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	EX3	Children of EX1 or EX6, new arrivals
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	EX8	Children of EX1 or EX6, adjustments
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	E35	Children of E31, E32, E36, or E37, new arrivals
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	E30	Children of E31, E32, E36, or E37, adjustments
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	EW5	Children of EW3 or EW8, new arrivals
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	EW0	Children of EW3 or EW8, adjustments
+Employment-based preferences	Third: Skilled workers, professionals, and needed unskilled workers	EC8	Children of EC6, adjustments
+			
+			
+			
+			
+Employment-based preferences	Fourth: Certain special immigrants	BC1	Broadcast (IBCB of BBG) employees, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	BC6	Broadcast (IBCG of BBG) employees, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SD1	Ministers, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SD6	Ministers, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SE1	Employees of U.S. government abroad, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SE6	Employees of U.S. government abroad, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SF1	Former employees of the Panama Canal Company or Canal Zone Government, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SF6	Former employees of the Panama Canal Company or Canal Zone Government, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SG1	Former U.S. government employees in the Panama Canal Zone, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SG6	Former U.S. government employees in the Panama Canal Zone, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SH1	Former employees of the Panama Canal Company or Canal Zone government, employed on April 1, 1979, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SH6	Former employees of the Panama Canal Company or Canal Zone government, employed on April 1, 1979, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SJ6	Foreign medical school graduate who was licensed to practice in the United States on Jan. 9, 1978, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SK1	Retired employees of international organizations, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SK6	Retired employees of international organizations, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SK4	Certain surviving spouses of deceased international organization employees, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SK9	Certain surviving spouses of deceased international organization employees, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SL1	Juvenile court dependents, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SL6	Juvenile court dependents, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SN1	Retired NATO-6 civilian employees, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SN6	Retired NATO-6 civilian employees, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SR1	Religious workers, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SR6	Religious workers, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SN4	Certain surviving spouses of deceased NATO-6 civilian employees, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SN9	Certain surviving spouses of deceased NATO-6 civilian employees, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	BC2	Spouses of BC1 or BC6, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	BC7	Spouses of BC1 or BC6, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SD2	Spouses of SD1 or SD6, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SD7	Spouses of SD1 or SD6, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SE2	Spouses of SE1 or SE6, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SE7	Spouses of SE1 or SE6, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SF2	Spouses or children of SF1 or SF6, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SF7	Spouses or children of SF1 or SF6, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SG2	Spouses or children of SG1 or SG6, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SG7	Spouses or children of SG1 or SG6, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SH2	Spouses or children of SH1 or SH6, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SH7	Spouses or children of SH1 or SH6, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SJ2	Spouses or children of SJ6, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SJ7	Spouses or children of SJ6, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SK2	Spouses of SK1 or SK6, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SK7	Spouses of SK1 or SK6, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SN2	Spouses of SN1 of SN6, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SN7	Spouses of SN1 of SN6, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SR2	Spouses of SR1 or SR6, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SR7	Spouses of SR1 or SR6, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	BC3	Children of BC1 or BC6, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	BC8	Children of BC1 or BC6, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SD3	Children of SD1 or SD6, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SD8	Children of SD1 or SD6, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SE3	Children of SE1 or SE6, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SE8	Children of SE1 or SE6, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SK3	Certain unmarried children of SK1 or SK6, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SK8	Certain unmarried children of SK1 or SK6, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SR3	Children of SR1 or SR6, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SR8	Children of SR1 or SR6, adjustments
+Employment-based preferences	Fourth: Certain special immigrants	SN3	Certain unmarried sons/daughters of SN1 or SN6, new arrivals
+Employment-based preferences	Fourth: Certain special immigrants	SN8	Certain unmarried sons/daughters of SN1 or SN6, adjustments
+
+Employment-based preferences	Fifth: Employment creation (investors)	C51	Employment creation, not in targeted area, new arrivals, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	C56	Employment creation, not in targeted area, adjustments, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	E51	Employment creation, new arrivals
+Employment-based preferences	Fifth: Employment creation (investors)	E56	Employment creation, adjustments
+Employment-based preferences	Fifth: Employment creation (investors)	I51	Employment creation, targeted area, pilot program, new arrivals, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	I56	Employment creation, targeted area, pilot program, adjustments, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	T51	Employment creation, targeted area, new arrivals, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	T56	Employment creation, targeted area, adjustments, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	R51	Investor pilot program, not targeted, new arrivals, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	R56	Investor pilot program, not targeted, adjustments, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	C52	Spouses of C51 or C56, new arrivals, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	C57	Spouses of C51 or C56, adjustments, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	E52	Spouses of E51 or E56, new arrivals
+Employment-based preferences	Fifth: Employment creation (investors)	E57	Spouses of E51 or E56, adjustments
+Employment-based preferences	Fifth: Employment creation (investors)	I52	Spouses of I51 or I56, new arrivals, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	I57	Spouses of I51 or I56, adjustments, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	T52	Spouses of T51 or T56, new arrivals, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	T57	Spouses of T51 or T56, adjustments, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	R52	Spouses of R51 or R56, new arrivals, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	R57	Spouses of R51 or R56, adjustments, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	C53	Children of C51 or C56, new arrivals, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	C58	Children of C51 or C56, adjustments, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	E53	Children of E51 or E56, new arrivals
+Employment-based preferences	Fifth: Employment creation (investors)	E58	Children of E51 or E56, adjustments
+Employment-based preferences	Fifth: Employment creation (investors)	I53	Children of I51 or I56, new arrivals, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	I58	Children of I51 or I56, adjustments, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	T53	Children of T51 or T56, new arrivals, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	T58	Children of T51 or T56, adjustments, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	R53	Children of R51 or R56, new arrivals, conditional
+Employment-based preferences	Fifth: Employment creation (investors)	R58	Children of R51 or R56, adjustments, conditional
+
+
+Refugees & Asylees	Refugees	CU6	Cuban refugees (P.L. 89-732 of 1966)
+Refugees & Asylees	Refugees	CU7	Non-Cuban spouses or children of Cuban refugees
+Refugees & Asylees	Refugees	IC6	Indochinese refugees (P.L. 95-145 of 1977)
+Refugees & Asylees	Refugees	IC7	Spouses or children of Indochinese refugees not qualified as refugees on their own
+Refugees & Asylees	Refugees	R86	Refugee parolees (P.L. 95-412 of 1978)
+Refugees & Asylees	Refugees	M83	Refugee escapees previously admitted for lawful permanent resident status, adjustments
+Refugees & Asylees	Refugees	Y64	Refugees in the United States prior to July 1, 1953, adjustments
+Refugees & Asylees	Refugees	RE6	Other refugees (P.L. 96-212 Refugee Act of 1980)
+Refugees & Asylees	Refugees	RE7	Spouses of RE6
+Refugees & Asylees	Refugees	RE8	Children of RE6
+Refugees & Asylees	Refugees	RE9	Other relatives
+			
+Refugees & Asylees	Asylees		
+Refugees & Asylees	Asylees	AS6	Asylees
+Refugees & Asylees	Asylees	GA6	Iraqi asylees
+Refugees & Asylees	Asylees	SY6	Syrian asylees
+Refugees & Asylees	Asylees	AS7	Spouses of AS6
+Refugees & Asylees	Asylees	GA7	Spouses of GA6
+Refugees & Asylees	Asylees	SY7	Spouses of SY6
+Refugees & Asylees	Asylees	AS8	Children of AS6
+Refugees & Asylees	Asylees	GA8	Children of GA6
+Refugees & Asylees	Asylees	SY8	Children of SY6
+
+Other	Paroless	PH6	Parolees, Polish/Hungarian
+Other	Paroless	LA6	Parolees, Soviet/Indochinese
+Other	Paroless	ID6	Parolees, Indochinese
+Other	Paroless	M93	Parolees, Hungarian previously admitted for lawful permanent resident status
+Other	Paroless	NA3	Children born abroad to alien residents
+			
+			
+Other	Nicaraguan and Central American Relief Act (NACARA Section 202, P.L. 105-100)	NC6	Principals
+Other	Nicaraguan and Central American Relief Act (NACARA Section 202, P.L. 105-100)	NC7	Spouses of NC6
+Other	Nicaraguan and Central American Relief Act (NACARA Section 202, P.L. 105-100)	NC8	Children of NC6
+Other	Nicaraguan and Central American Relief Act (NACARA Section 202, P.L. 105-100)	NC9	Unmarried sons/daughters of NC6
+			
+			
+Other	Cancellation of removal	Z13	Sec. 244, P.L. 89-236, subject to 4,000 annual limit
+Other	Cancellation of removal	Z14	Battered spouses or children (Violence Against Women Act), P.L. 103-322 of 1994, subject to 4,000 annual limit
+Other	Cancellation of removal	Z15	Salvadoran, Guatemalan and former Soviet bloc country nationals (NACARA Section 203, P.L. 105-100 of 1997)
+Other	Cancellation of removal	Z56	Crewmen who entered on or before June 30, 1964 and are immediate relatives of U.S. citizens or special immigrants
+Other	Cancellation of removal	Z57	Crewmen who entered on or before June 30, 1964 and are preference or non-preference immigrants
+Other	Cancellation of removal	Z11	Preference or non-preference immigrants (other than crewmen)
+			
+			
+			
+			
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HA6	Haitian asylum applicants
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HB6	Haitian parolees
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HC6	Haitian children without parents
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HD6	Haitian children orphaned in the United States
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HE6	Haitian children abandoned by parents
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HA7	Spouses of HA6
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HB7	Spouses of HB6
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HC7	Spouses of HC6
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HD7	Spouses of HD6
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HE7	Spouses of HE6
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HA8	Children of HA6
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HB8	Children of HB6
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HC8	Children of HC6
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HD8	Children of HD6
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HE8	Children of HE6
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HA9	Unmarried sons/daughters of HA6
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HB9	Unmarried sons/daughters of HB6
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HC9	Unmarried sons/daughters of HC6
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HD9	Unmarried sons/daughters of HD6
+Other	Haitian Refugee Immigration Fairness Act (HRIFA, P.L. 105-277)	HE9	Unmarried sons/daughters of HE6
+			
+Other	IRCA legalization	W16	Entered without inspection before 1/1/82
+Other	IRCA legalization	W26	Entered as nonimmigrant and overstayed visa before 1/1/82
+Other	IRCA legalization	W36	Blanket enforced voluntary departure (EVD) group
+Other	IRCA legalization	S16	Seasonal Agricultural Workers (SAW), worked at least 90 days during each year ending May 1, 1984, 1985, and 1986
+Other	IRCA legalization	S26	Seasonal Agricultural Workers (SAW), worked at least 90 days during the year ending on May 1, 1986
+			
+			
+Other	IRCA legalization dependents	LB1	Spouses of legalized aliens, new arrivals
+Other	IRCA legalization dependents	CB1	Spouses of legalized aliens, new arrivals, conditional
+Other	IRCA legalization dependents	LB6	Spouses of legalized aliens, adjustments
+Other	IRCA legalization dependents	CB6	Spouses of legalized aliens, adjustments, conditional
+Other	IRCA legalization dependents	LB2	Children of LB1 or LB6, new arrivals
+Other	IRCA legalization dependents	CB2	Children of CB1 or CB6, new arrivals, conditional
+Other	IRCA legalization dependents	LB7	Children of LB1 or LB6, adjustments
+Other	IRCA legalization dependents	CB7	Children of CB1 or CB6, adjustments, conditional
+			
+Other	Other classes	AA1	Natives of certain adversely affected foreign states, new arrivals
+Other	Other classes	AA6	Natives of certain adversely affected foreign states, adjustments
+Other	Other classes	AA2	Spouses of AA1 or AA6, new arrivals
+Other	Other classes	AA7	Spouses of AA1 or AA6, adjustments
+Other	Other classes	AA3	Children of AA1 or AA6, new arrivals
+Other	Other classes	AA8	Children of AA1 or AA6, adjustments
+Other	Other classes	AM1	Amerasians, born in Vietnam between 1/1/62-1/1/76, new arrivals
+Other	Other classes	AM6	Amerasians, born in Vietnam between 1/1/62-1/1/76, adjustments
+Other	Other classes	AM2	Spouses or children of AM1 or AM6, new arrivals
+Other	Other classes	AM7	Spouses or children of AM1 or AM6, adjustments
+Other	Other classes	AM3	Mothers, guardians, or next of kin of AM1 or AM6, new arrivals
+Other	Other classes	AM8	Mothers, guardians, or next of kin of AM1 or AM6, adjustments
+Other	Other classes	DS1	Individuals born under diplomatic status, adjustments,
+Other	Other classes	HH6	Parolees adjusting under the Help HAITI Act of 2010, adjustments
+Other	Other classes	HK1	Hong Kong business employees, new arrivals
+Other	Other classes	HK6	Hong Kong business employees, adjustments
+Other	Other classes	HK2	Spouses of HK1 or HK6, new arrivals
+Other	Other classes	HK7	Spouses of HK1 or HK6, adjustments
+Other	Other classes	HK3	Children of HK1 or HK6, new arrivals
+Other	Other classes	HK8	Children of HK1 or HK6, adjustments
+Other	Other classes	CH6	Cuban Haitian entrants, adjustments (P.L. 99-603)
+Other	Other classes	S13	American Indians born in Canada, new arrivals
+Other	Other classes	DT1	Natives of Tibet who continuously resided in Nepal or India (Displaced Tibetan), new arrivals
+Other	Other classes	DT6	Natives of Tibet who continuously resided in Nepal or India (Displaced Tibetan), adjustments
+Other	Other classes	DT2	Spouses of DT1 or DT6, new arrivals
+Other	Other classes	DT7	Spouses of DT1 or DT6, adjustments
+Other	Other classes	DT3	Children of DT1 or DT6, new arrivals
+Other	Other classes	DT8	Children of DT1 or DT6, adjustments
+Other	Other classes	MR0	Parents of U.S. citizens presumed to be lawful permanent resident aliens - Northern Mariana Islands, adjustments
+Other	Other classes	MR6	Spouses of U.S. citizens presumed to be lawful permanent resident aliens - Northern Mariana Islands, adjustments
+Other	Other classes	MR7	Children of U.S. citizens presumed to be lawful permanent resident aliens - Northern Mariana Islands, adjustments
+Other	Other classes	NP8	Alien who filed and was qualified with investor status prior to June 1, 1978
+Other	Other classes	NP9	Spouses or children of NP8, adjustments
+Other	Other classes	RN6	Certain former H1 nonimmigrant registered nurses, adjustments
+Other	Other classes	RN7	Spouses or children of RN6, adjustments
+Other	Other classes	SC1	Lost citizenship through marriage, new arrivals
+Other	Other classes	SC6	Lost citizenship through marriage, adjustments
+Other	Other classes	SC2	Lost citizenship through serving in foreign armed forces, new arrivals
+Other	Other classes	SC7	Lost citizenship through serving in foreign armed forces, adjustments
+Other	Other classes	SI1	Special immigrant interpreters who are nationals of Iraq or Afghanistan, new arrivals
+Other	Other classes	SI6	Special immigrant interpreters who are nationals of Iraq or Afghanistan, adjustments
+Other	Other classes	SI2	Spouses of SI1 or SI6, new arrivals
+Other	Other classes	SI7	Spouses of SI1 or SI6, adjustments
+Other	Other classes	SI3	Children of SI1 or SI6, new arrivals
+Other	Other classes	SI8	Children of SI1 or SI6, adjustments
+Other	Other classes	SM1	U.S. Armed Forces personnel, service (12 years) after 10/1/91, new arrivals
+Other	Other classes	SM6	U.S. Armed Forces personnel, service (12 years) after 10/1/91, adjustments
+Other	Other classes	SM4	U.S. Armed Forces personnel, service (12 years) by 10/91, new arrivals
+Other	Other classes	SM9	U.S. Armed Forces personnel, service (12 years) by 10/91, adjustments
+Other	Other classes	SM2	Spouses of SM1 or SM6, new arrivals
+Other	Other classes	SM7	Spouses of SM1 or SM6, adjustments
+Other	Other classes	SM5	Spouses or children of SM4 or SM9, new arrivals
+Other	Other classes	SM0	Spouses or children of SM4 or SM9, adjustments
+Other	Other classes	SM3	Children of SM1 or SM6, new arrivals
+Other	Other classes	SM8	Children of SM1 or SM6, adjustments
+Other	Other classes	SQ1	Certain Iraqis and Afghans employed by U.S. Government, new arrivals
+Other	Other classes	SQ6	Certain Iraqis and Afghans employed by U.S. Government, adjustments
+Other	Other classes	SQ2	Spouses of SQ1 or SQ6, new arrivals
+Other	Other classes	SQ7	Spouses of SQ1 or SQ6, adjustments
+Other	Other classes	SQ3	Children of SQ1 or SQ6, new arrivals
+Other	Other classes	SQ8	Children of SQ1 or SQ6, adjustments
+Other	Other classes	ST6	Adjustment of T1 nonimmigrant
+Other	Other classes	ST7	Adjustment of T2 nonimmigrant
+Other	Other classes	ST8	Adjustment of T3 nonimmigrant
+Other	Other classes	ST0	Adjustment of T4 nonimmigrant
+Other	Other classes	ST9	Adjustment of T5 nonimmigrant
+Other	Other classes	SU2	Spouses of SU6, new arrivals
+Other	Other classes	SU3	Children of SU6, new arrivals
+Other	Other classes	SU5	Parents of SU6, new arrivals
+Other	Other classes	SU6	Adjustment of U1 nonimmigrant
+Other	Other classes	SU7	Adjustment of U2 nonimmigrant
+Other	Other classes	SU8	Adjustment of U3 nonimmigrant
+Other	Other classes	SU0	Adjustment of U4 nonimmigrant
+Other	Other classes	SU9	Adjustment of U5 nonimmigrant
+Other	Other classes	W46	Late amnesty applicants (Immigration Reform and Control Act)
+Other	Other classes	XB3	Presumed lawfully admitted for permanent residence
+Other	Other classes	XA3	Children born subsequent to issuance of parent's non-quota visa, new arrivals
+Other	Other classes	XE3	Children born subsequent to issuance of parent's employment-based preference visa, new arrivals
+Other	Other classes	XF3	Children born subsequent to issuance of parent's family-sponsored preference visa, new arrivals
+Other	Other classes	XR3	Children born subsequent to issuance of parent's immediate relative of U.S. citizen visa, new arrivals
+Other	Other classes	XN3	Children born subsequent to issuance of parent's visa other, new arrivals
+Other	Other classes	Z43	Private bill, adjustments
+Other	Other classes	Z33	Entered before 7/1/24, Section 249, P.L. 89-236, adjustments
+Other	Other classes	Z03	Entered 7/1/24-6/28/40, Section 249, P.L. 89-236, adjustments
+Other	Other classes	Z66	Entered 6/29/40-1/1/72, Section 249, P.L. 89-236, adjustments
+Other	Other classes	Z83	Foreign government official who is immediate relative of U.S. citizen or special immigrant
